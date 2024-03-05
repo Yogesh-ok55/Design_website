@@ -1,0 +1,79 @@
+.secondpage{
+    height: 100vh;
+    padding-left: 200px;
+    display: flex;
+}
+
+.secondpage .about{
+    width: 240px;
+    padding-top: 100px;
+    padding-right: 40px;
+}
+
+.secondpage .about span{
+    color: coral;
+}
+
+.secondpage .about h1{
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+
+.secondpage .image{
+    height: 567px;
+    width: 250px;
+    background-image: url("images/rectangle_1_copy_5.jpg");
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-right: 70px;
+    color:white;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.secondpage .image h3{
+    padding-top: 45px;
+    padding-left: 80px;
+}
+
+
+.secondpage .image h5{
+    padding-bottom: 45px;
+    padding-left: 130px;
+}
+
+.secondpage .image .divborder{
+    
+    border-bottom: 2px solid white;
+}
+.secondpage .image .img1{
+   width: 40px;
+   position: relative;
+   left:250px;
+}
+.secondpage .image .img2{
+   width: 40px;
+   position: relative;
+   left:204px;
+}
+.secondpage .image .img3{
+   width: 40px;
+   position: relative;
+   left:180px;
+}
+.secondpage .image .img4{
+   width: 40px;
+   position: relative;
+   left:170px;
+}
+
+.secondpage .paragraphs{
+   width: 300px;
+   padding-top: 50px;
+}
+
+.secondpage .paragraphs p{
+    margin-bottom: 50px;
+}
